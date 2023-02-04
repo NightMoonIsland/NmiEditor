@@ -1,0 +1,13 @@
+{
+  "name": "com.nmi.editor",
+  "version": "1.0.0",
+  "displayName": "NmiEditor",
+  "description": "Simple And Fast Light Editor",
+  "unity": "2020.4",
+  "unityRelease": "15f1",
+  "author": {
+    "name": "Nmi",
+    "url": "https://www.prepare.com"
+  },
+  "samples": []
+}
